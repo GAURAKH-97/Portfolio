@@ -9,9 +9,9 @@
   }
   },
   {
-    "name": "hospital Management",
+    "name": "Hospital Management",
     "desc": "hello",
-    "image": "portfolio",
+    "image": "Hospital",
     "links": {
       "view": "https://github.com/GAURAKH-97/Hospital-Management",
       "code": "https://github.com/GAURAKH-97/Hospital-Management"
@@ -26,13 +26,5 @@
       "code": ""
   }
   },
-  {
-    "name": "Voice Recognition System",
-    "desc": "",
-    "image": "portfolio",
-    "links": {
-      "view": "",
-      "code": ""
-  }
-  }
+  
 ]
