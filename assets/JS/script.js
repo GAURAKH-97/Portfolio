@@ -209,7 +209,7 @@ document.getElementById('contact-form').addEventListener('submit', function (e) 
         function (response) {
         console.log('SUCCESS!', response.status, response.text);
         document.getElementById("contact-form").reset();
-        alert("Form Submitted Successfully");
+        alert("Message Sent Successfully");
         },
         function (error) {
             console.log('FAILED...', error);
