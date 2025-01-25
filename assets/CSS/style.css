@@ -67,6 +67,7 @@ header {
   z-index: 1000;
   display: flex;
   align-items: center;
+  text-align: center;
   justify-content: space-between;
   padding: 1.7rem 10%;
   height: 6.5rem;
@@ -99,6 +100,7 @@ header .logo {
 header .logo #p {
 margin-left: 1rem;
 }
+
 header .logo:hover {
   color: #fc8c05;
 }
