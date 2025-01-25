@@ -91,9 +91,13 @@ header .logo {
   font-weight: 800;
   text-decoration: none;
   color: #0e2431;
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  text-align: center;
 }
-header .logo i {
-  font-size: 2.2rem;
+header .logo #p {
+margin-left: 1rem;
 }
 header .logo:hover {
   color: #fc8c05;
