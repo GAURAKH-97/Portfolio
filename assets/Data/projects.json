@@ -1,7 +1,7 @@
 [
   {
     "name": "Personal Portfolio",
-    "desc": "",
+    "desc": "A passionate Front-End Developer skilled in HTML, CSS, and JavaScript, with a focus on creating responsive, user-friendly web applications. My portfolio showcases a range of projects highlighting my expertise in UI design, performance optimization, and seamless user experiences. Continuously evolving my skills, I strive to deliver high-quality, innovative solutions",
     "image": "portfolio",
     "links": {
       "view": "https://gaurakh-codes.netlify.app/",
@@ -10,7 +10,7 @@
   },
   {
     "name": "Hospital Management",
-    "desc": "hello",
+    "desc": "This C++ project offers a complete solution for managing hospital operations, including patient registration, record updating, and database management. It features functionalities for searching, deleting, and restoring patient records, ensuring a streamlined workflow for hospital administrators. The system is designed to maintain an organized and secure database, enhancing operational efficiency.",
     "image": "Hospital",
     "links": {
       "view": "https://github.com/GAURAKH-97/Hospital-Management",
