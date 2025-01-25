@@ -702,9 +702,8 @@ header .navbar ul li a:hover {
 }
 .work .desc {
   margin: 2rem;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
+  overflow: scroll;
+  scrollbar-width: none;
 }
 .work .desc p {
   font-size: 1.5rem;
@@ -714,6 +713,7 @@ header .navbar ul li a:hover {
   justify-content: space-between;
   width: 100%;
   margin-top: 2rem;
+  margin-bottom: 7rem;
 }
 .work .desc .btns .btn {
   line-height: 0;
