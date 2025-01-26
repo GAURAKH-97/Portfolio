@@ -1,11 +1,11 @@
 [
   {
-    "name": "Personal Portfolio",
-    "desc": "A passionate Front-End Developer skilled in HTML, CSS, and JavaScript, with a focus on creating responsive, user-friendly web applications. My portfolio showcases a range of projects highlighting my expertise in UI design, performance optimization, and seamless user experiences. Continuously evolving my skills, I strive to deliver high-quality, innovative solutions",
-    "image": "portfolio",
+    "name": "Smart Aid",
+    "desc": "This project integrates various Python scripts and applications to create a comprehensive automation and assistant system named Smart aid. Smart aid encompasses several functionalities, including automation tasks, AI-based chatbot capabilities, real-time information retrieval, image generation, speech recognition with translation, and text-to-speech conversion for interactive feedback.",
+    "image": "Smart_Aid",
     "links": {
-      "view": "https://gaurakh-codes.netlify.app/",
-      "code": "https://github.com/GAURAKH-97/Portfolio"
+      "view": "https://github.com/GAURAKH-97/Smart-Aid",
+      "code": "https://github.com/GAURAKH-97/Smart-Aid"
   }
   },
   {
