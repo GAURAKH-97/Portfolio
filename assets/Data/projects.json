@@ -9,7 +9,7 @@
   }
   },
   {
-    "name": "Hospital Management",
+    "name": "Hospital Management System",
     "desc": "This C++ project offers a complete solution for managing hospital operations, including patient registration, record updating, and database management. It features functionalities for searching, deleting, and restoring patient records, ensuring a streamlined workflow for hospital administrators. The system is designed to maintain an organized and secure database, enhancing operational efficiency.",
     "image": "Hospital",
     "links": {
