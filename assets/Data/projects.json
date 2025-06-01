@@ -18,12 +18,12 @@
   }
   },
   {
-    "name": "Threat detection system",
-    "desc": "",
-    "image": "",
+    "name": "Nexus",
+    "desc": "Nexus is a cross-platform LAN communication and control system built in C++ with Qt. It enables real-time interaction between devices on the same local network without internet.",
+    "image": "Nexus",
     "links": {
-      "view": "",
-      "code": ""
+      "view": "https://github.com/GAURAKH-97/Nexus",
+      "code": "https://github.com/GAURAKH-97/Nexus"
   }
   }
   
