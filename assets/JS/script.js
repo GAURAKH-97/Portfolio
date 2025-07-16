@@ -1,15 +1,20 @@
 fetch('http://localhost:3000/collect', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        userAgent: navigator.userAgent,
-        referrer: document.referrer
-      })
-    }).then(() => {
-      console.log("Visitor data sent successfully!");
-    }).catch(err => {
-      console.error("Failed to send visitor data:", err);
-    });
+  method: 'POST',
+  headers: { 'Content-Type': 'application/json' },
+  body: JSON.stringify({
+    userAgent: navigator.userAgent,
+    referrer: document.referrer
+  })
+})
+.then(response => {
+  if (!response.ok) {
+    throw new Error("Server returned status " + response.status);
+  }
+  console.log("✅ Visitor data sent successfully!");
+})
+.catch(err => {
+  console.error("❌ Failed to send visitor data:", err);
+});
 
 
 
