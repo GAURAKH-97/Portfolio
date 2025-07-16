@@ -22,6 +22,9 @@ fetch('http://localhost:3000/collect', {
 
 
 
+
+
+
 $(document).ready(function () {
 
     $('#menu').click(function () {
